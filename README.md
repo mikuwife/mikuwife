@@ -3,7 +3,7 @@
 This is my profile
 
 <!-- - 🔭 I’m currently working on golang -->
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with it
 <!-- - 💬 Ask me about ... -->
